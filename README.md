@@ -1,2 +1,4 @@
 # Tongue_Image_Diabetes_Detection
 I have created a Python program with a user interface that can help identify diabetes by analysing images of the tongue.
+In this study, a non-invasive method for diagnosing diabetes based on TCM was created by combining CNN networks and a deep autoencoder learning algorithm. The balance between the five-element theory and the Yin-Yang idea of TCM can be seen in the tongue’s texture, geometry, and colour because the tongue is the index of internal organs. 
+These features were extracted from the deep NN classifier model. For the classification of diabetes, a convolutional neural network variation is suggested. In addition to being easy to develop and implement, the suggested CNN also uses less computational power than the other rival neural network. An actual data set is used to test the proposed technique. 
